@@ -3,7 +3,7 @@
 
 Email Me 👉  **eeeimran0@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m currently working on:** E-Commerce Project
+- 🔭 **I’m currently working on:** Data Science and Machine Learning Projects
 - 🌱 **I’m currently learning:** Data Science and Machine learning 
 - 🤔 **I’m looking for** Internship or Job In Data Science Field
 - 💬 **Ask me about:** Collaboration, Tech Support
